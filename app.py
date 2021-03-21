@@ -17,8 +17,8 @@ chrome_options.add_experimental_option("prefs",prefs)
 driver = webdriver.Chrome(chrome_options=chrome_options)
 
 
-user_email = 'dhudotyukit018@gmail.com' #change with ur fb's email
-user_pass = 'jhyyqtw8109692'			#change with ur fb's password
+user_email = '' #change with ur fb's email
+user_pass = ''			#change with ur fb's password
 waitTime = 10
 
 
